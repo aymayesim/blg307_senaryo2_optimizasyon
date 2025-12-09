@@ -1,6 +1,6 @@
 # BLG-307 Yapay Zeka Sistemleri – 1. Proje Ödevi  
 ## Genetik Algoritma ile Endüstriyel Boya Karışımı Optimizasyonu  
-*Öğrenci:* (Ad – Numara)  
+*Öğrenci:* YEŞİM AYMA
 *Senaryo:* 2 – Pigment A ve Pigment B Karışımı Optimizasyonu  
 
 ---
